@@ -3,6 +3,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - jeremywhui/jeremywhui.github.io
   - NikhilMahalingam/PC-Composer
   - jeremywhui/OpenSSD-Rowhammer-Data
   - dlin07/MusikGroup4
