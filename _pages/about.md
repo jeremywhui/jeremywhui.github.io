@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: ECE & CS, Rutgers University. <a href='jeremywhui@gmail.com'>jeremywhui@gmail.com</a>.
+subtitle: ECE & CS, Rutgers University. <a href='mailto:jeremywhui@gmail.com'>jeremywhui@gmail.com</a>.
 
 profile:
   align: right
@@ -11,9 +11,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info:
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am an adaptive and highly motivated computer engineering and computer science student at Rutgers Honors Academy.

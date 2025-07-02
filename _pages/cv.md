@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /cv/
+layout: none
+permalink: /assets/pdf/Jeremy_Hui_resume.pdf
 title: cv
 nav: true
 nav_order: 5
