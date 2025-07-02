@@ -2,7 +2,7 @@
 layout: page
 title: CS336 Project
 description: Shoe shopping website with SQL backend
-img: ERDiagram.jpg
+img: assets/img/ERDiagram.jpg
 importance: 5
 category: work
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: MUSIK
 description: MIDI Utilized System Interface for Keyboards
-img: Musik.png
+img: assets/img/Musik.png
 importance: 1
 category: fun
 related_publications: false

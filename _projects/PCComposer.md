@@ -2,7 +2,7 @@
 layout: page
 title: PC Composer
 description: Computer shopping with AI chatbot
-img: PCComposer.png
+img: assets/img/PCComposer.png
 importance: 4
 category: work
 related_publications: false

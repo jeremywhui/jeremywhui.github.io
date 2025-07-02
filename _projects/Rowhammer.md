@@ -2,7 +2,7 @@
 layout: page
 title: Performing Rowhammer-like Attacks on OpenSSD NAND Flash
 description: Testing whether repeated write and erases can result in Rowhammer effects
-img: RowhammerCharacterization.png
+img: assets/img/RowhammerCharacterization.png
 importance: 1
 category: work
 related_publications: false
