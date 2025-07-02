@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Some of my projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -392,51 +392,46 @@ ninja.data = [{
     },{id: "news-site-mostly-up-to-date-with-the-latest-information",
           title: 'Site mostly up to date with the latest information!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-assignment-guru",
+          title: 'Assignment Guru',
+          description: "Creating assignments for CS111/CS112 that demonstrating the social impact of computing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/AssignmentGuru/";
+            },},{id: "projects-cs336-project",
+          title: 'CS336 Project',
+          description: "Shoe shopping website with SQL backend",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/CS336Project/";
+            },},{id: "projects-musik",
+          title: 'MUSIK',
+          description: "MIDI Utilized System Interface for Keyboards",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/MUSIK/";
+            },},{id: "projects-pc-composer",
+          title: 'PC Composer',
+          description: "Computer shopping with AI chatbot",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/PCComposer/";
+            },},{id: "projects-concurrent-proxy-server",
+          title: 'Concurrent Proxy Server',
+          description: "Web proxy that forwards multiple requests in parallel",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/Proxy/";
+            },},{id: "projects-robotic-iot-smartspace-testbed",
+          title: 'Robotic IoT SmartSpace Testbed',
+          description: "Developing an IoT experimentation platform to understand indoor spaces",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/RobotTestbed/";
+            },},{id: "projects-performing-rowhammer-like-attacks-on-openssd-nand-flash",
+          title: 'Performing Rowhammer-like Attacks on OpenSSD NAND Flash',
+          description: "Testing whether repeated write and erases can result in Rowhammer effects",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/projects/Rowhammer/";
+            },},{id: "projects-wooshi-39-s-notes",
+          title: 'Wooshi&amp;#39;s Notes',
+          description: "Notes accumulated from courses taken at Rutgers University",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/WooshisNotes/";
             },},{
         id: 'social-email',
         title: 'email',
