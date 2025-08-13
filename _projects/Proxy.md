@@ -3,7 +3,7 @@ layout: page
 title: Concurrent Proxy Server
 description: Web proxy that forwards multiple requests in parallel
 img: assets/img/ProxyConcept.png
-importance: 3
+importance: 4
 category: work
 related_publications: false
 ---

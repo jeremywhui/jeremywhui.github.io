@@ -3,7 +3,7 @@ layout: page
 title: Robotic IoT SmartSpace Testbed
 description: Developing an IoT experimentation platform to understand indoor spaces
 img: assets/img/Maestro.jpeg
-importance: 2
+importance: 3
 category: work
 related_publications: false
 ---

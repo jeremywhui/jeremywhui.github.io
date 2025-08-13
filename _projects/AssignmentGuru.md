@@ -3,7 +3,7 @@ layout: page
 title: Assignment Guru
 description: Creating assignments for CS111/CS112 that demonstrating the social impact of computing
 img:
-importance: 6
+importance: 7
 category: work
 related_publications: false
 ---
