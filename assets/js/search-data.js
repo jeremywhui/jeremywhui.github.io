@@ -28,7 +28,7 @@ ninja.data = [{
           description: "My background and experience",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Jeremy_Hui_resume.pdf";
+            window.location.href = "/assets/pdf/Jeremy_Hui_CV.pdf";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -402,6 +402,11 @@ ninja.data = [{
           description: "Shoe shopping website with SQL backend",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CS336Project/";
+            },},{id: "projects-high-performance-computing-secure-agent-for-confidential-containers",
+          title: 'High-Performance Computing Secure Agent for Confidential Containers',
+          description: "Designed an agent to automate deployment of Confidential Containers (CoCo) for DNNs and detect malware",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/HPCAgent/";
             },},{id: "projects-musik",
           title: 'MUSIK',
           description: "MIDI Utilized System Interface for Keyboards",
