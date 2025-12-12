@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an adaptive and highly motivated computer engineering and computer science student at Rutgers Honors Academy.
+I am an adaptive and highly motivated computer engineering and computer science student at the Rutgers Engineering Honors Academy.
 
 I have a large passion for studying computer architecture and security, as well as in increasing the accessibility of learning computer science. I was a former architecture security researcher in the [Princeton Intel REU](https://seas-reu.princeton.edu/), where I investigated the effects of Rowhammer attacks on SSD NAND Flash. I was also a former lead teaching assistant for Introduction to Computer Science, as well a learning assistant for Introduction to Computers for Engineers, Introduction to Data-Driven Design for Engineering Applications, where I have supported many students through office hours and creating interactive learning experiences for students. I am particularly interested in studying the security of systems, particularly memory and computer architecture security.
 
