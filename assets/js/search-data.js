@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/repositories/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "My background and experience",
@@ -400,6 +407,11 @@ ninja.data = [{
           description: "Designed an agent to automate deployment of Confidential Containers (CoCo) for DNNs and detect malware",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HPCAgent/";
+            },},{id: "projects-lumisense",
+          title: 'LumiSense',
+          description: "A Non-Intrusive Device for Sleep Cycle Detection",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/LumiSense/";
             },},{id: "projects-musik",
           title: 'MUSIK',
           description: "MIDI Utilized System Interface for Keyboards",
