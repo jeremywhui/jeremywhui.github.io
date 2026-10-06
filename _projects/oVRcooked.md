@@ -12,7 +12,7 @@ An engaging experience of a pizza cooking game in virtual reality.
 
 To run this application, either visit the [GitHub Page](https://jeremywhui.github.io/oVRcooked) or use the following directions:
 
-1. Clone the repository at [here](https://github.com/jeremywhui/oVRcooked)
+1. Clone the repository [here](https://github.com/jeremywhui/oVRcooked).
 2. Open `index.html` using the VS Code Live Server extension in Google Chrome.
 3. Ensure the Immersive Web Emulator extension is enabled, and press the "Enable WebXR" button.
 4. Press the play button to enter VR mode.
