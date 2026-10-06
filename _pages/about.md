@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: ECE & CS, Rutgers University. <a href='mailto:jeremywhui@gmail.com'>jeremywhui@gmail.com</a>.
+subtitle: ECE, University of Toronto. jeremy@</a>.
 
 profile:
   align: right
@@ -16,9 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an adaptive and highly motivated computer engineering and computer science student at the Rutgers Engineering Honors Academy.
+I am Ph.D. student in [The Department of Electrical & Computer Engineering (ECE)](https://www.ece.utoronto.ca/) at the [University of Toronto (UofT)](https://www.utoronto.ca/), co-advised by [Prof. David Lie](https://security.csl.toronto.edu/) and [Prof. Gururaj Saileshwar](https://gururaj-s.github.io/).
 
-I have a large passion for studying computer architecture and security, as well as in increasing the accessibility of learning computer science. I was a former architecture security researcher in the [Princeton Intel REU](https://seas-reu.princeton.edu/), where I investigated the effects of Rowhammer attacks on SSD NAND Flash. I am currently researching automated systems in deploying Confidential Containers to protect private workloads, while also investigating using side-channel analysis for detecting malicious activity. I was also a former lead teaching assistant for Introduction to Computer Science, as well a learning assistant for Linear Systems & Signals and Introduction to Data-Driven Design for Engineering Applications, where I have supported many students through designing activities and assignments, and creating interactive learning experiences for students.
+I have a large passion for studying the intersection of **computer architecture and security**, as well as **systems software, formal verification, and cloud computing**. I was a former architecture security researcher in the [Princeton Intel REU](https://seas-reu.princeton.edu/), where I investigated the effects of Rowhammer attacks on SSD NAND Flash. I have also had experience researching automated systems in deploying Confidential Containers to protect private workloads, while also investigating using side-channel analysis for detecting malicious activity. Currently, I focus on vulnerabilities found in GPU driver code and developing defenses.
+
+I am also greatly interested in increasing the accessibility of ECE and CS education. I was a former lead teaching assistant for Introduction to Computer Science and teaching assistant for Computer Architecture, as well a learning assistant for Linear Systems & Signals and Introduction to Data-Driven Design for Engineering Applications. Through these experiences, I have supported many students through designing activities and assignments, and creating interactive learning experiences for students.
+
+Previously, I have earned a B.S. in Electrical & Computer Engineering and Computer Science, with a Mathematics minor from [Rutgers University](https://www.rutgers.edu/). 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
