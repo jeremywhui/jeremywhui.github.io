@@ -105,6 +105,11 @@ ninja.data = [{
           description: "Notes accumulated from courses taken at Rutgers University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/WooshisNotes/";
+            },},{id: "projects-ovrcooked",
+          title: 'oVRcooked',
+          description: "Pizza cooking game in VR",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/oVRcooked/";
             },},{
         id: 'social-email',
         title: 'email',
