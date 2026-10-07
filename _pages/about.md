@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: ECE, University of Toronto. <a href='mailto:jeremywhui@gmail.com'>jeremywhui@gmail.com</a>.
+subtitle: ECE, University of Toronto. jeremywhui@gmail.com.
 
 profile:
   align: right
